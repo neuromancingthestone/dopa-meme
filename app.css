@@ -1,0 +1,84 @@
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+} */
+.url-form {
+    position: absolute;
+    left: 120px;
+    width: 80%;
+}
+
+.top-text-form {
+    position: absolute;
+    left: 120px;   
+    width: 80%;    
+}
+
+.bot-text-form {
+    position: absolute;
+    left: 120px; 
+    width: 80%;    
+}
+
+.title1 {
+    margin: auto;
+    text-align: center;
+    font-size: 6rem;
+    font-family: Roboto;    
+}
+
+.title-sub {
+    margin: auto;
+    text-align: center;
+    font-size: 1rem;
+    font-family: Roboto;    
+}
+
+.imgPos {
+    position: relative;
+    text-align: center;
+}
+
+.memeApp {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 400px;
+}
+
+h1 {  
+    font-size: 6rem;
+    font-family: Roboto;
+}
+
+h3 {
+    font-size: 3rem;
+    font-family: Roboto;
+}
+
+.topText {
+    color: white;
+    font-size: 2rem;
+    font-family: Bungee, cursive;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: black;
+}
+
+.botText {
+    color: white;
+    font-size: 2rem;
+    font-family: Bungee, cursive;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: black;    
+}
